@@ -1,0 +1,9 @@
+
+com.fynsystems.fyngeez
+com.nati.cal
+com.facebook.lite
+com.transsion.carlcare
+com.hatsune.eagleee
+com.gameloft.android.GloftASGM
+com.vskit.lite
+com.infinix.xshare
